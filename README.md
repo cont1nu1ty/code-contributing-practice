@@ -81,10 +81,14 @@
     2. **务必为本次练习创建一条新分支**。
     3. 确保本次 PR 不包含上一次练习的提交记录。
 
+-**注意事项**：
+- 创建一个 issue，标题命名为 `Ex1` 或 `ex1` 或 `练习1` 或 `练习一`，机器人会将它分配给你，成为你的专属练习 issue
+- 记得查看 [`CONTRIBUTING.md`](https://github.com/FrogDar/code-contributing-practice/blob/main/CONTRIBUTING.md) 里的规范（比如 git message 要使用 [`angular` 规范](https://github.com/angular/angular/blob/main/CONTRIBUTING.md)）
+
 ## TODO
 
 - [x] 基本文字介绍
 - [x] 完成第一个贡献流程
 - [x] 完成一次手动评判
 - [x] 利用 `GitHub Actions` 自动评判流程并给予提示
-- [x] 更为充实的文字介绍
+- [ ] 更为充实的文字介绍
