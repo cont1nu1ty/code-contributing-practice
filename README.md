@@ -71,7 +71,7 @@
 - **步骤**：
     1. 创建一个 Issue，标题为 `Ex1` 或 `练习一`，机器人会自动分配给你。
     2. 严格遵循上述标准流程。
-    3. 遵守 `CONTRIBUTING.md` 中的规范（特别是 commit message 规范）。
+    3. 遵守 `CONTRIBUTING.md`(https://github.com/FrogDar/code-contributing-practice/blob/main/CONTRIBUTING.md) 中的规范（比如 git message 要使用[`angular` 规范](https://github.com/angular/angular/blob/main/CONTRIBUTING.md)）。
 
 ### 练习二：处理多个提交
 
@@ -80,10 +80,6 @@
     1. 创建一个 Issue，标题为 `Ex2` 或 `练习二`。
     2. **务必为本次练习创建一条新分支**。
     3. 确保本次 PR 不包含上一次练习的提交记录。
-
--**注意事项**：
-- 创建一个 issue，标题命名为 `Ex1` 或 `ex1` 或 `练习1` 或 `练习一`，机器人会将它分配给你，成为你的专属练习 issue
-- 记得查看 [`CONTRIBUTING.md`](https://github.com/FrogDar/code-contributing-practice/blob/main/CONTRIBUTING.md) 里的规范（比如 git message 要使用 [`angular` 规范](https://github.com/angular/angular/blob/main/CONTRIBUTING.md)）
 
 ## TODO
 
