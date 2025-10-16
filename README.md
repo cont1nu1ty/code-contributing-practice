@@ -71,7 +71,7 @@
 - **步骤**：
     1. 创建一个 Issue，标题为 `Ex1` 或 `练习一`，机器人会自动分配给你。
     2. 严格遵循上述标准流程。
-    3. 遵守 `CONTRIBUTING.md`(https://github.com/FrogDar/code-contributing-practice/blob/main/CONTRIBUTING.md) 中的规范（比如 git message 要使用[`angular` 规范](https://github.com/angular/angular/blob/main/CONTRIBUTING.md)）。
+    3. 遵守 [`CONTRIBUTING.md`](https://github.com/FrogDar/code-contributing-practice/blob/main/CONTRIBUTING.md) 中的规范（比如 git message 要使用[`angular` 规范](https://github.com/angular/angular/blob/main/CONTRIBUTING.md)）。
 
 ### 练习二：处理多个提交
 
